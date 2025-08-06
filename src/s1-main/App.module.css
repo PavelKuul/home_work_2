@@ -1,11 +1,19 @@
 .App {
     --header_height: 60px;
+    margin: 40px 50px;
 }
 
 .hw {
+ border-bottom: 1px solid #dfd0d0; 
 
 }
 
 .hwTitle {
+     border-bottom: 1px solid #dfd0d0; 
+    margin-top: 50px;
+font-size: 30px;
+font-weight: bold;
+margin-bottom: 20px;
 
 }
+

@@ -1,13 +1,16 @@
 .affair {
+    
     display: flex;
     align-items: center;
     width: 185px;
 
     border: 1.5px solid var(--color);
     border-radius: 5px;
+    
 }
 
 .name {
+    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -28,4 +31,5 @@
 
     font-weight: 900;
     cursor: pointer;
+    
 }
